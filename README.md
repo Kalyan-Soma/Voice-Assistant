@@ -1,2 +1,1 @@
-# K18PG-G-22
-Voice Assistent
+Voice Assistant in Python
